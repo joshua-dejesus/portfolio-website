@@ -10,10 +10,10 @@ export default function HomePage() {
         <div className="max-w-2xl text-center space-y-6">
           <h1 className="text-6xl font-bold">Joshua DeJesus</h1>
           <p className="text-2xl text-gray-500">Pursuing B.S in Computer Science at Binghamton University</p>
-          <p className="text-lg text-gray-300">Hi, I'm Joshua, a junior at Binghamton University. I'm interested in software development and game development. I have experience using C++, Python, and Java. This website is a work in progress, so please check back later for more updates!</p>
+          <p className="text-lg text-gray-300">Hi, I&apos;m Joshua, a junior at Binghamton University. I&apos;m interested in software development and game development. I have experience using C++, Python, and Java. This website is a work in progress, so please check back later for more updates!</p>
         </div>
 
-        <div className="relative ml-35">
+        <div className="relative ml-36">
         <Image 
           src="/SuitPhoto.jpeg"
           alt="Joshua DeJesus"
@@ -34,9 +34,9 @@ export default function HomePage() {
         </a>
       </div>
 
-      <div className="ml-55 pt-10">
+      <div className="ml-56 pt-10">
         <a href="https://www.linkedin.com/in/joshua-dejesus-583992296/" target="_blank" rel="noopener noreferrer">
-          <button className="bg-blue-500 border border-white px-6 py-3 rounded-lg hover:bg-black-800 cursor-pointer">Connect with me on LinkedIn</button>
+          <button className="bg-blue-500 border border-white px-6 py-3 rounded-lg hover:bg-gray-800 cursor-pointer">Connect with me on LinkedIn</button>
         </a>
       </div>
 
