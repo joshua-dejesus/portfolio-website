@@ -2,6 +2,11 @@ export default function projectsPage () {
     return (
         <main className="min-h-screen p-16">
             <div className="max-w-4xl mx-auto space-y-6">
+                
+                <h1 className="font-bold flex justify-left text-4xl"> C++ SFML Asteroid Dodger Game</h1>
+
+                <li className="pl-10 text-lg">8 bit aracde style game created using the SFML library and C++. Features include full movement control, screen wrapping, collision explosion sounds, background music, increased difficulty the longer you survive, and a play again option</li>
+
                 <h1 className="font-bold flex justify-left text-4xl">Python CLI To Do List App</h1>
 
                 <li className="pl-10 text-lg">This is a very simple command line to do list app using python. The features include adding, viewing, completeing, deleting, and saving tasks between sessions using a JSON file</li>
