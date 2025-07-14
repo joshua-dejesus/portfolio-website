@@ -26,10 +26,10 @@ export default function HomePage() {
       </div>
       
       <div className="flex gap-4 pt-2 ml-40">
-        <a href="https://github.com/lilbigtoe" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/joshua-dejesus" target="_blank" rel="noopener noreferrer">
           <button className="bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 border border-white cursor-pointer">View Github Profile</button>
         </a>
-        <a href="/joshua_dejesus_resume.pdf" download="joshua_deJesus_resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/joshuadejesus_resume.pdf" download="joshua_deJesus_resume.pdf" target="_blank" rel="noopener noreferrer">
           <button className="border border-black px-6 py-3 rounded-lg hover:bg-gray-800 border border-white cursor-pointer">Download Resume</button>
         </a>
       </div>

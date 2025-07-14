@@ -5,7 +5,7 @@ export default function projectsPage () {
                 
                 <h1 className="font-bold flex justify-left text-4xl"> C++ SFML Asteroid Dodger Game</h1>
 
-                <li className="pl-10 text-lg">8 bit aracde style game created using the SFML library and C++. Features include full movement control, screen wrapping, collision explosion sounds, background music, increased difficulty the longer you survive, and a play again option</li>
+                <li className="pl-10 text-lg">8 bit arcade style game created using the SFML library and C++. Features include full movement control, screen wrapping, collision explosion sounds, background music, increased difficulty the longer you survive, and a play again option</li>
 
                 <h1 className="font-bold flex justify-left text-4xl">Python CLI To Do List App</h1>
 
