@@ -15,7 +15,7 @@ export default function HomePage() {
 
         <div className="relative ml-36">
         <Image 
-          src="/SuitPhoto.jpeg"
+          src="/photoboothPic1.jpg"
           alt="Joshua DeJesus"
           width={300}
           height={300}
@@ -29,7 +29,7 @@ export default function HomePage() {
         <a href="https://github.com/joshua-dejesus" target="_blank" rel="noopener noreferrer">
           <button className="bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 border border-white cursor-pointer">View Github Profile</button>
         </a>
-        <a href="/joshuadejesus_resume.pdf" download="joshua_deJesus_resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/joshua-dejesus-resume.pdf" download="joshua-deJesus-resume.pdf" target="_blank" rel="noopener noreferrer">
           <button className="border border-black px-6 py-3 rounded-lg hover:bg-gray-800 border border-white cursor-pointer">Download Resume</button>
         </a>
       </div>
